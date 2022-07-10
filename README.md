@@ -1,0 +1,2 @@
+# manage
+pycharm-git
